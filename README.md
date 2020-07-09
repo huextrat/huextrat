@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Hugo
 
-<a href="https://twitter.com/huextrat">
+<a href="https://twitter.com/hugoextrat">
   <img src="https://img.shields.io/badge/follow%20me-twitter-green?style=for-the-badge">
 </a>
 
