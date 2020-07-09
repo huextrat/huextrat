@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Hugo
 
-I'm a mobile app developer [@SQLI](https://sqli.com/) and I'm also a mentor for the Android developer course on [@OpenClassrooms](https://openclassrooms.com/)
+I'm a mobile app developer at [SQLI](https://sqli.com/) and I'm also a mentor for the Android developer course on [OpenClassrooms](https://openclassrooms.com/)
 
 You can find some of my projects here on my GitHub mainly in Flutter/Dart with UI projects, packages, ...
 
