@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=huextrat&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=huextrat&show_icons=true&theme=radical">
 
 ### Hi there 👋  I'm Hugo
 
