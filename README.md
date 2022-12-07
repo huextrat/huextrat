@@ -7,6 +7,4 @@
 [![https://github.com/sponsors/huextrat](https://img.shields.io/badge/sponsor-me-blue?style=for-the-badge)](https://github.com/sponsors/huextrat)
 [![extrat.h@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:extrat.h@gmail.com)
 
-👨‍💻 Mobile app developer at [SQLI](https://sqli.com/) & Mentor for the Android developer course on [OpenClassrooms](https://openclassrooms.com/)
-
-<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="20" height="20"> You can find some of my projects here on my GitHub mainly in Flutter/Dart with UI projects, packages, ...
+👨‍💻 Mobile App Developer @[Choose](http://appchoose.io)
