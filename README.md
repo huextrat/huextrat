@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=huextrat&show_icons=true&theme=synthwave">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=huextrat&show_icons=true&count_private=true&show_icons=true&theme=synthwave">
 
 ### Hi there 👋  I'm Hugo
 
